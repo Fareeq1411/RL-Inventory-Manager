@@ -57,7 +57,7 @@ python OnG_manager.py
 
 | Gameplay                    | Info Panel                                              |
 | --------------------------- | ------------------------------------------------------- |
-| ![](lib/bg.png) *(example)* | Shows current inventory, daily usage, and cost tracking |
+| ![](lib/image.png) *(example)* | Shows current inventory, daily usage, and cost tracking |
 
 ## 🔧 Notes
 
